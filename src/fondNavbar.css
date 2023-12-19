@@ -1,0 +1,21 @@
+
+
+.navbar {
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  background-color: #dddddd;
+  background-size: cover;
+  margin-left: 200px;
+  margin-bottom: 50px;
+}
+.add-movie{
+  text-align: center;
+  padding: 8px;
+  width:200px;
+  position: fixed;
+  background-color: rgb(223, 214, 214);
+  margin-bottom: 50px;
+
+}
